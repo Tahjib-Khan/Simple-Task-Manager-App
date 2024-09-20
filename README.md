@@ -1,4 +1,4 @@
-<h1>React - Stop the Timer Mini Game</h1>
+<h1>React - Task Manager Web App</h1>
 
 
 
